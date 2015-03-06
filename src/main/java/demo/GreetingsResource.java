@@ -17,6 +17,7 @@ public class GreetingsResource {
 	 * Change A
 	 * Change B
 	 * Change C
+	 * Change X
 	 * 
 	 * @param name pathvariable
 	 * @return String
