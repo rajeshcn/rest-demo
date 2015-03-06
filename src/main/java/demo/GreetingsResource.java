@@ -24,6 +24,7 @@ public class GreetingsResource {
 	public String sayHello(@PathVariable String name) {
 		return "hello rest app world "+name;
 	}
+	//Change D
 
 }
  	
