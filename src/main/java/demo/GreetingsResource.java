@@ -14,6 +14,8 @@ public class GreetingsResource {
 	
 	/**
 	 * 
+	 * Change A
+	 * 
 	 * @param name pathvariable
 	 * @return String
 	 */
